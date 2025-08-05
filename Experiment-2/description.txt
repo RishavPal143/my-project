@@ -1,7 +1,7 @@
 This experiment is a responsive and modern banking user interface built using only HTML and CSS. It focuses on layout design and styling, without any JavaScript, making it ideal for practicing clean UI structuring and responsive web design techniques.
 
 Features
-A clean and prominent Balance Display section (styled as a card or highlighted box)
+A clean Balance Display section (styled as a card or highlighted box)
 
 Deposit button
 
@@ -10,7 +10,7 @@ Withdraw button
 Objectives
 Centered layout with proper spacing and alignment for a clean, professional appearance
 
-Fully responsive design that adjusts gracefully across desktop, tablet, and mobile devices
+Fully responsive design that adjusts across desktop, tablet, and mobile devices
 
 Utilizes modern CSS layout techniques such as Flexbox or Grid
 
