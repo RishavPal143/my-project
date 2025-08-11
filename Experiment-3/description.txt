@@ -1,0 +1,4 @@
+This is a Responsive Admin Dashboard built with HTML and CSS only — no JavaScript.
+It features a Light/Dark mode toggle implemented purely through CSS variables (--bg-header, --bg-main, etc.) and the new :has() selector.
+The dashboard layout is powered by CSS Grid, splitting the UI into a header, sidebar navigation, main content, and footer.
+The dark mode is activated when the checkbox with id="switchtheme" is checked — CSS then updates all color variables accordingly.
